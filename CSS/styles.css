@@ -1,0 +1,92 @@
+h1  {
+  font-family: "Caveat", cursive;
+  font-size: 5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Cookie", cursive;
+  font-size: 3.5rem;
+}
+
+h2:hover {
+  color: #7d7c7c;
+}
+
+p {
+  font-family: "Archivo", sans-serif;
+  font-size: 1.3rem;
+}
+
+
+/* title section*/
+#title {
+  background-color: #000000;
+  color: #EEEEEE;
+}
+
+/* Navigation Bar */
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar {
+  font-family: "Nunito", sans-serif;
+}
+
+.navbar-brand {
+  font-size: 1.6rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* Contact button */
+.contact-button {
+  margin: 5% 3% 5% 0;
+}
+
+
+/* Intro section */
+#intro {
+  padding: 7% 15%;
+}
+
+.profile-img {
+  width: 90%; height: auto;
+  border-radius: 10%
+}
+
+
+/* gallery section */
+#gallery {
+  padding: 7% 15%;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+
+/* footer */
+#footer {
+  background-color: #000000;
+  color: #EEEEEE;
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon  {
+  margin: 25px 10px;
+  color: #EEEEEE;
+
+}
+
+.social-icon:hover {
+  color: #525252;
+}
